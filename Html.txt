@@ -1,0 +1,45 @@
+<Html>
+<head>
+<title>REGISTRATION</title>
+<style>
+body{
+background-image: URL(image3.jpg)
+}
+</style>
+</head>
+<style>
+form{
+width:300px;
+height:400px;
+background:aqua;
+}
+</style>
+<body background="image3.jpg">
+<H1 style:"color:aqua">
+<center>AFREEN MARRIAGE INVETATION:</center>
+</H1>
+
+<center>
+<form>
+Name:<input type="text"><br><br>
+Username:<input type="text"><br><br>
+Password:<input type="password"><br><br>
+Gender:<input type="radio"name="Gender">male
+<input type="radio"name="Gender">female
+<input type="radio"name="Gender">others<br><br>
+Language:<input type="checkbox"name="Lang">Telugu
+<input type="checkbox"name="Lang">Hindi
+<input type="checkbox"name="Lang">English<br><br>
+<input type="checkbox"name="Lang">Marati
+<input type="checkbox"name="Lang">French
+<input type="checkbox"name="Lang">spanish<br><br>
+Telephone:<input type="Tel"><br><br>
+Place:<input type="Text"><br><br>
+convention Hall:<input type="Text"><br><br>
+submit:<input type="Submit"><br><br>
+</center>
+</body>
+</html>
+
+
+
